@@ -1,5 +1,5 @@
 # PAPO
-#### Facilitating drug procurement
+#### [Facilitating drug procurement](https://zerosimple.net/projects/papo/)
 
 ## Goal
 The current manual and time-consuming drug procurement processes at the client's facility, characterized by the need for constant evaluation of drug alternatives based on price, quantity, and packaging, along with the critical need for timely and precise drug restocking, significantly hinder operational efficiency and patient care. To solve this we produced a standalone cloud based application that will produce accurate replacement drugs and a cost analysis for them based on an input drug identification number.
