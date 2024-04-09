@@ -7,8 +7,6 @@ The current manual and time-consuming drug procurement processes at the client's
 ## How it works
 The PAPO application is a comprehensive healthcare platform designed to optimize the pharmaceutical procurement process through advanced technology. It integrates a secure online database, robust API functionality, and a user-friendly front-end interface. The secure database manages user credentials and real-time information updates, while the API supports key user interactions such as registration, login, and profile management. At its core, the application employs sophisticated algorithms for analyzing drug package sizes and evaluating costs, aimed at providing users with cost-effective drug replacement options. This seamless integration of database architecture, APIs, and front-end design enhances user experience by offering a streamlined process for accessing personalized, financially optimal drug replacements. The application's emphasis on security, efficiency, and precision in managing pharmaceutical data positions it as a significant tool in improving healthcare outcomes.
 
-## Design Features
-
 
 <!--
 
