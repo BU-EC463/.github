@@ -41,7 +41,7 @@ An awesome ReadMe Generator to Jumpstart your Projects!
 
 ## About The Project
 
-<img src="./img/demo.gif" alt="Screenshot" style="width: 100%;">
+<img src="../img/demo.gif" alt="Screenshot" style="width: 100%;">
 
 ### What is PAPO?
 
@@ -69,7 +69,7 @@ This project was built with the following technologies:
   - S3
   - Route53
 
-<img src="./img/system.png" alt="System" style="width: 100%;">
+<img src="../img/system.png" alt="System" style="width: 100%;">
 
 ## Getting Started
 
