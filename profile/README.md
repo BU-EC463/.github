@@ -41,9 +41,9 @@ An awesome ReadMe Generator to Jumpstart your Projects!
 
 ## About The Project
 
-<!-- <img src="./img/demo.gif" alt="Screenshot" style="width: 100%;"> -->
+<img src="img/demo.gif" alt="Screenshot" style="width: 100%;">
 
-![Screenshot](./img/demo.gif)
+<!-- ![Screenshot](./img/demo.gif) -->
 
 ### What is PAPO?
 
