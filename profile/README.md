@@ -144,24 +144,21 @@ Please follow the following steps for successful installation:
    ```sh
    cd frontend
    npm install
-   npm start
    ```
-   The server should be running on http://localhost:3000/
-
+   
 3. **Install Backend Packages:** Similarly, navigate to the &quot;/backend&quot; directory and install the required yarn packages by executing the following command in your terminal:
 
    ```sh
    virtualenv venv
    source venv/bin/activate
    pip install -r requirements.txt
-   uvicorn main:app --reload
    ```
 
 4. **Set Up Environment:**
 
-   - In the &quot;/backend&quot; directory, copy the content of &quot;.env.example&quot; file and create a new file named &quot;.env&quot;. Adjust the environment variables according to your requirements or you can leave them as it is.
+   - In the &quot;API&quot; repository, copy the content of &quot;.env.example&quot; file and create a new file named &quot;.env&quot;. Adjust the environment variables according to your requirements or you can leave them as it is.
 
-   - Navigate to &quot;frontend/api/generated/readMeGenerator.ts&quot; and set the BASE parameter to your backend API route. For instance, if you are running backend on your local server at port 8080, you should set:
+   - Navigate to &quot;frontend/.env.example&quot; and create a new file named &quot;.env&quot;. In the new .env set the BASE parameter to your backend API route. For instance, if you are running backend on your local server at port 8080, you should set:
 
      ```javascript
      BASE: "http://localhost:8080/api";
@@ -178,6 +175,8 @@ Please follow the following steps for successful installation:
    ```sh
    npm start
    ```
+
+   The server should be running on http://localhost:3000/
 
    Now, your application should be successfully up and running!
 
@@ -221,11 +220,10 @@ Don&#39;t forget to give the project a star! Thanks again!
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to us:
+- **Taha Ababou:** hababou@bu.edu | [LinkedIn](https://linkedin.com/in/tahaababou/)
+- **Joel Akerman:** akermanj@bu.edu | [LinkedIn](https://www.linkedin.com/in/joel-akerman/)
+- **Manuel Segimon:** msegimon@bu.edu | [LinkedIn](https://www.linkedin.com/in/manuel-segimón/)
+- **Bora Bulut:** bbulut@bu.edu | [LinkedIn](https://www.linkedin.com/in/bora-bulut-70a290142/)
+- **Zaiyan Muhammad** monem@bu.edu | [LinkedIn](#)
 
 - Raise an issue on the repository: [GitHub Repository](#)
-- Connect with us on LinkedIn:
-  - [@Taha Ababou](https://linkedin.com/in/tahaababou/)
-  - [@Joel Akerman](https://www.linkedin.com/in/joel-akerman/)
-  - [@Manuel Segimon](https://www.linkedin.com/in/manuel-segimón/)
-  - [@Bora Bulut](https://www.linkedin.com/in/bora-bulut-70a290142/)
-  - [@Zaiyan Muhammad](#)
