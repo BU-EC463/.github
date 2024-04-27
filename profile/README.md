@@ -132,22 +132,29 @@ This project requires `node.js & npm`, `react`, `next.js`, `python`, and `fastap
 
 Please follow the following steps for successful installation:
 
-1. **Clone the Repository:** Get started by cloning the repository to your local machine.
+1. **Clone the Repository:** Get started by cloning the **frontend** and **backend** repositories to your local machine.
 
    ```
-   https://github.com/ShaanCoding/makeread.me
+   https://github.com/BU-EC463/frontend.git // [Front End Repository]
+   https://github.com/BU-EC463/API.git // [Back End Repository]
    ```
 
-2. **Install Frontend Packages:** Navigate to the &quot;/frontend&quot; directory and install the required yarn packages by executing the following command in your terminal:
+2. **Install Frontend Packages:** Navigate to the &quot;/frontend&quot; directory and install the required npm packages by executing the following command in your terminal:
 
    ```sh
-   yarn install
+   cd frontend
+   npm install
+   npm start
    ```
+   The server should be running on http://localhost:3000/
 
 3. **Install Backend Packages:** Similarly, navigate to the &quot;/backend&quot; directory and install the required yarn packages by executing the following command in your terminal:
 
    ```sh
-   yarn install
+   virtualenv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   uvicorn main:app --reload
    ```
 
 4. **Set Up Environment:**
@@ -163,13 +170,13 @@ Please follow the following steps for successful installation:
 5. **Run the Backend:** Navigate to &quot;/backend&quot; directory and type the following command in your terminal to run your backend server:
 
    ```sh
-   yarn dev
+   uvicorn main:app --reload
    ```
 
 6. **Run the Frontend:** Finally, navigate to &quot;/frontend&quot; directory and type the following command in your terminal to run your frontend server:
 
    ```sh
-   yarn dev
+   npm start
    ```
 
    Now, your application should be successfully up and running!
