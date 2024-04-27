@@ -1,11 +1,11 @@
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/makeread.me">
-<img src="images/logo.png" alt="Logo" width="80" height="80">
+<img src="https://avatars.githubusercontent.com/u/144550275?s=200&v=4" alt="Logo" width="80" height="80">
 </a>
-<h3 align="center">makeread.me</h3>
+<h3 align="center">PAPO</h3>
 <p align="center">
-An awesome ReadMe Generator to Jumpstart your Projects!
+Pharmacy Procurement Optimizer
 <br/>
 <br/>
 <a href="https://github.com/ShaanCoding/makeread.me/wiki"><strong>Explore the docs »</strong></a>
