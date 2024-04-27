@@ -41,9 +41,9 @@ Pharmacy Procurement Optimizer
 
 ## About The Project
 
-<!-- <img src="https://raw.githubusercontent.com/BU-EC463/.github/main/profile/img/demo.gif" alt="Screenshot" style="width: 100%;"> -->
+<img src="https://raw.githubusercontent.com/BU-EC463/.github/main/profile/img/demo.gif" alt="Screenshot" style="width: 100%;">
 
-![Screenshot](https://raw.githubusercontent.com/BU-EC463/.github/main/profile/img/demo.gif)
+<!-- ![Screenshot](https://raw.githubusercontent.com/BU-EC463/.github/main/profile/img/demo.gif) -->
 
 ### What is PAPO?
 
