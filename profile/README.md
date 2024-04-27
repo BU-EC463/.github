@@ -11,13 +11,13 @@ Pharmacy Procurement Optimizer
 <a href="https://github.com/ShaanCoding/makeread.me/wiki"><strong>Explore the docs »</strong></a>
 <br/>
 <br/>
-<a href="https://www.makeread.me/">View Demo .</a>  
-<a href="https://github.com/ShaanCoding/makeread.me/issues/new?labels=bug&amp;template=bug_report.md">Report Bug .</a>
+<a href="#">View Demo .</a>  
+<a href="#">Report Bug .</a>
 <a href="https://github.com/ShaanCoding/makeread.me/issues/new?labels=enhancement&amp;&template=feature_request.md">Request Feature</a>
 </p>
 </div>
 
-![Contributors](https://img.shields.io/github/contributors/ShaanCoding/makeread.me?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/makeread.me) ![License](https://img.shields.io/github/license/ShaanCoding/makeread.me)
+![Contributors](https://img.shields.io/github/contributors/ShaanCoding/makeread.me?color=dark-green) ![Issues](#) ![License](#)
 
 ## Table of Contents
 
@@ -219,12 +219,16 @@ Don&#39;t forget to give the project a star! Thanks again!
 
 If you have any questions or suggestions, feel free to reach out to us:
 
-- Raise an issue on the repository: [GitHub Repository](https://github.com/ShaanCoding/makeread.me)
-- Connect with us on Twitter: [@ShaanCoding](https://twitter.com/ShaanCoding)
+- Raise an issue on the repository: [GitHub Repository](#)
+- Connect with us on LinkedIn:
+  - [@Taha Ababou](https://linkedin.com/in/tahaababou/)
+  - [@Joel Akerman](https://www.linkedin.com/in/joel-akerman/)
+  - [@Manuel Segimon](https://www.linkedin.com/in/manuel-segimón/)
+  - [@Bora Bulut](https://www.linkedin.com/in/bora-bulut-70a290142/)
+  - [@Zaiyan Muhammad](#)
 
 ## Acknowledgments
 
 A special thanks to the following for their contributions, support and inspiration:
 
-- [makeread.me](https://github.com/ShaanCoding/makeread.me)
-- [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
+- BU ECE
