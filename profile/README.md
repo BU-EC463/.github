@@ -226,9 +226,3 @@ If you have any questions or suggestions, feel free to reach out to us:
   - [@Manuel Segimon](https://www.linkedin.com/in/manuel-segimón/)
   - [@Bora Bulut](https://www.linkedin.com/in/bora-bulut-70a290142/)
   - [@Zaiyan Muhammad](#)
-
-## Acknowledgments
-
-A special thanks to the following for their contributions, support and inspiration:
-
-- BU ECE
