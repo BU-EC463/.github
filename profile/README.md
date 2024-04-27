@@ -132,11 +132,11 @@ This project requires `node.js & npm`, `react`, `next.js`, `python`, and `fastap
 
 Please follow the following steps for successful installation:
 
-1. **Clone the Repository:** Get started by cloning the **frontend** and **backend** repositories to your local machine.
+1. **Clone the Repository:** Get started by cloning the **[frontend](https://github.com/BU-EC463/frontend.git)** and **[backend](https://github.com/BU-EC463/API.git)** repositories to your local machine.
 
-   ```
-   https://github.com/BU-EC463/frontend.git // [Front End Repository]
-   https://github.com/BU-EC463/API.git // [Back End Repository]
+   ```sh
+   git clone https://github.com/BU-EC463/frontend.git # [Front End Repository]
+   git clone https://github.com/BU-EC463/API.git # [Back End Repository]
    ```
 
 2. **Install Frontend Packages:** Navigate to the &quot;/frontend&quot; directory and install the required npm packages by executing the following command in your terminal:
