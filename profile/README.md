@@ -41,9 +41,9 @@ Pharmacy Procurement Optimizer
 
 ## About The Project
 
-<img src="img/demo.gif" alt="Screenshot" style="width: 100%;">
+<!-- <img src="https://raw.githubusercontent.com/BU-EC463/.github/main/profile/img/demo.gif" alt="Screenshot" style="width: 100%;"> -->
 
-![Screenshot](img/demo.gif)
+![Screenshot](https://raw.githubusercontent.com/BU-EC463/.github/main/profile/img/demo.gif)
 
 ### What is PAPO?
 
@@ -71,7 +71,7 @@ This project was built with the following technologies:
   - S3
   - Route53
 
-![Screenshot](./img/system.png)
+![Screenshot](https://raw.githubusercontent.com/BU-EC463/.github/main/profile/img/system.png)
 
 ## Getting Started
 
