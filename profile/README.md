@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/makeread.me">
+<a href="https://github.com/BU-EC463/">
 <img src="https://avatars.githubusercontent.com/u/144550275?s=200&v=4" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">PAPO</h3>
@@ -146,9 +146,10 @@ Please follow the following steps for successful installation:
    npm install
    ```
    
-3. **Install Backend Packages:** Similarly, navigate to the &quot;/backend&quot; directory and install the required yarn packages by executing the following command in your terminal:
+3. **Install Backend Packages:** Similarly, navigate to the &quot;/API&quot; directory and install the required yarn packages by executing the following command in your terminal:
 
    ```sh
+   cd API
    virtualenv venv
    source venv/bin/activate
    pip install -r requirements.txt
@@ -226,4 +227,4 @@ If you have any questions or suggestions, feel free to reach out to us:
 - **Bora Bulut:** bbulut@bu.edu | [LinkedIn](https://www.linkedin.com/in/bora-bulut-70a290142/)
 - **Zaiyan Muhammad** monem@bu.edu | [LinkedIn](#)
 
-- Raise an issue on the repository: [GitHub Repository](#)
+Raise an issue on the repository: [GitHub Repository](#)
