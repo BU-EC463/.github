@@ -8,8 +8,8 @@
 Pharmacy Procurement Optimizer
 <br/>
 <br/>
-[View Demo .](https://drive.google.com/file/d/1zcKiXpLYIG0fRKEd0ViKqXaNLka7GgCd/view?usp=sharing)
-<a href="#" target="blank">Report Bug .</a>
+<a href="https://drive.google.com/file/d/1zcKiXpLYIG0fRKEd0ViKqXaNLka7GgCd/view?usp=sharing" target="blank">View Demo .</a>  
+<a href="#">Report Bug .</a>
 <a href="#">Request Feature</a>
 <!-- <a href="https://github.com/ShaanCoding/makeread.me/issues/new?labels=enhancement&amp;&template=feature_request.md">Request Feature</a> -->
 </p>
